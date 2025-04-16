@@ -1,82 +1,82 @@
-PARA CONSTRUIR UM FOGUETE (LANÇADOR)
-1. Fundamentos de Física
+# FOGUETE (LANÇADOR)
+##1. Fundamentos de Física
 
-    Mecânica (movimento, força, gravidade, leis de Newton)
+    ### Mecânica (movimento, força, gravidade, leis de Newton)
 
-    Termodinâmica
+    ### Termodinâmica
 
-    Dinâmica de fluidos (especialmente para propulsão)
+   ### Dinâmica de fluidos (especialmente para propulsão)
 
-    Aerodinâmica
+    ### Aerodinâmica
 
-2. Engenharia Aeroespacial
+## 2. Engenharia Aeroespacial
 
-    Propulsão (química e elétrica)
+    ### Propulsão (química e elétrica)
 
-    Estruturas aeroespaciais (materiais leves e resistentes)
+     ### Estruturas aeroespaciais (materiais leves e resistentes)
 
-    Sistemas de controle e estabilidade
+   ### Sistemas de controle e estabilidade
 
-    Dinâmica de voo
+   ###  Dinâmica de voo
 
-3. Propulsão de Foguetes
+## 3. Propulsão de Foguetes
 
-    Tipos de propelentes (sólidos, líquidos, híbridos)
+    ### Tipos de propelentes (sólidos, líquidos, híbridos)
 
-    Câmaras de combustão
+   ### Câmaras de combustão
 
-    Motores a jato e motores-foguete
+   ### Motores a jato e motores-foguete
 
-    Estágios do foguete
+   ### Estágios do foguete
 
-4. Matemática Aplicada
+## 4. Matemática Aplicada
 
-    Cálculo (derivadas e integrais)
+   ### Cálculo (derivadas e integrais)
 
-    Álgebra linear (para simulações e sistemas)
+  ###  Álgebra linear (para simulações e sistemas)
 
-    Equações diferenciais (para trajetórias)
+   ### Equações diferenciais (para trajetórias)
 
-    Matemática vetorial
+  ###  Matemática vetorial
 
-5. Sistemas de Guiagem e Navegação
+## 5. Sistemas de Guiagem e Navegação
 
-    Giroscópios e acelerómetros
+   ### Giroscópios e acelerómetros
 
-    Kalman Filter (para navegação)
+   ### Kalman Filter (para navegação)
 
-    Sensores e atuadores
+   ### Sensores e atuadores
 
-    GPS e telemetria
+   ### GPS e telemetria
 
-🛰️ PARA CONSTRUIR UM SATÉLITE
-1. Órbita e Dinâmica Orbital
+# 🛰️ PARA CONSTRUIR UM SATÉLITE
+## 1. Órbita e Dinâmica Orbital
 
-    Tipos de órbita (LEO, MEO, GEO, HEO)
+   ### Tipos de órbita (LEO, MEO, GEO, HEO)
 
-    Leis de Kepler
+   ### Leis de Kepler
 
-    Transferência de Hohmann
+  ### Transferência de Hohmann
 
-    Cálculo de janelas de lançamento
+   ### Cálculo de janelas de lançamento
 
-2. Eletrónica e Computação
+## 2. Eletrónica e Computação
 
-    Microcontroladores (Arduino, STM32, etc.)
+  ###  Microcontroladores (Arduino, STM32, etc.)
 
-    Sistemas embarcados
+  ###  Sistemas embarcados
 
-    Fontes de energia (painéis solares, baterias)
+   ### Fontes de energia (painéis solares, baterias)
 
-    Sistemas de comunicação (antenas, rádiofrequência, protocolos)
+  ###  Sistemas de comunicação (antenas, rádiofrequência, protocolos)
 
-3. Sistemas de Energia
+## 3. Sistemas de Energia
 
-    Células solares e painéis fotovoltaicos
+  ###  Células solares e painéis fotovoltaicos
 
-    Gerência de energia (carga/descarga de baterias)
+  ###  Gerência de energia (carga/descarga de baterias)
 
-    Reguladores de tensão
+  ###  Reguladores de tensão
 
 4. Comunicação
 
