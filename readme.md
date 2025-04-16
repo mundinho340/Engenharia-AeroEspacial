@@ -1,33 +1,33 @@
 # FOGUETE (LANÇADOR)
-##1. Fundamentos de Física
+## 1. Fundamentos de Física
 
-    ### Mecânica (movimento, força, gravidade, leis de Newton)
+     Mecânica (movimento, força, gravidade, leis de Newton)
 
-    ### Termodinâmica
+     Termodinâmica
 
-   ### Dinâmica de fluidos (especialmente para propulsão)
+      Dinâmica de fluidos (especialmente para propulsão)
 
-    ### Aerodinâmica
+     Aerodinâmica
 
 ## 2. Engenharia Aeroespacial
 
-    ### Propulsão (química e elétrica)
+     Propulsão (química e elétrica)
 
-     ### Estruturas aeroespaciais (materiais leves e resistentes)
+     Estruturas aeroespaciais (materiais leves e resistentes)
 
-   ### Sistemas de controle e estabilidade
+    Sistemas de controle e estabilidade
 
-   ###  Dinâmica de voo
+     Dinâmica de voo
 
 ## 3. Propulsão de Foguetes
 
-    ### Tipos de propelentes (sólidos, líquidos, híbridos)
+   Tipos de propelentes (sólidos, líquidos, híbridos)
 
-   ### Câmaras de combustão
+   Câmaras de combustão
 
-   ### Motores a jato e motores-foguete
+   Motores a jato e motores-foguete
 
-   ### Estágios do foguete
+   Estágios do foguete
 
 ## 4. Matemática Aplicada
 
