@@ -78,7 +78,7 @@
 
   ###  Reguladores de tensão
 
-4. Comunicação
+## 4. Comunicação
 
     Transceptores e rádio definido por software (SDR)
 
@@ -86,7 +86,7 @@
 
     Link Budget
 
-5. Controle Térmico
+## 5. Controle Térmico
 
     Radiação e isolamento
 
@@ -94,7 +94,7 @@
 
     Mecanismos passivos e ativos
 
-6. Estrutura e Design do Satélite
+## 6. Estrutura e Design do Satélite
 
     CubeSats (padrão popular)
 
@@ -102,7 +102,7 @@
 
     Modularidade e acesso a subsistemas
 
-7. Simulação e Testes
+## 7. Simulação e Testes
 
     Software de simulação (MATLAB/Simulink, OpenRocket, GMAT, STK)
 
@@ -110,7 +110,7 @@
 
     Testes de vibração e choque
 
-🛠️ FERRAMENTAS E SOFTWARES ÚTEIS
+## 🛠️ FERRAMENTAS E SOFTWARES ÚTEIS
 
     MATLAB / Simulink – simulação e modelagem
 
@@ -122,7 +122,7 @@
 
     GMAT / STK (Systems Tool Kit) – simulação de órbitas
 
-🧠 CIÊNCIA EXTRA E BOAS PRÁTICAS
+## 🧠 CIÊNCIA EXTRA E BOAS PRÁTICAS
 
     História da exploração espacial (NASA, ESA, SpaceX, etc.)
 
